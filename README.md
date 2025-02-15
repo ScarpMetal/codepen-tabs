@@ -1,6 +1,8 @@
 # CodePen Tabs
 Adds multi-tab support to the CodePen editor for organizing code.
 
+<img src="https://i.imgur.com/m6AIeNd.png" />
+
 ## How to install
 1. Install the [TamperMonkey](https://www.tampermonkey.net/#download) browser extension
 2. Click the TamperMonkey extension icon, then navigate to `Dashboard > Utilities > Import from url`
