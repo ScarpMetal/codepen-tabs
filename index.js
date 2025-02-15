@@ -2,7 +2,8 @@
 // @name         CodePen Tabs
 // @description  Adds multi-tab support to the CodePen editor for organizing code
 // @author       Matthew Graham (https://matthewgraham.me/)
-// @version      0.0.1
+// @version      0.0.2
+// @updateURL    https://raw.githubusercontent.com/ScarpMetal/codepen-tabs/refs/heads/main/index.js
 // @downloadURL  https://raw.githubusercontent.com/ScarpMetal/codepen-tabs/refs/heads/main/index.js
 // @namespace    https://matthewgraham.me/
 // @match        https://codepen.io/*/pen/*
