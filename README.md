@@ -27,5 +27,5 @@ function func3() {}
 ```
 
 ## How to setup dev environment
-1. Clone the repo `TODO`
+1. Clone the repo `git clone https://github.com/ScarpMetal/codepen-tabs.git`
 2. Click the TamperMonkey extension icon, then navigate to `Dashboard > Utilities > Import from file` and upload `index.js`
